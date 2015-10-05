@@ -1,0 +1,31 @@
+body {
+background-color:#7BB8E5;
+} 
+
+h3{
+  text-align: center;
+  font-family: 'Source Sans Pro', sans-serif;
+}
+
+.calculator{
+background-color:#60BD59;
+height:50px;
+width:300px;
+border-radius:10px;
+position: relative;
+top:100px;
+left:40%;
+} 
+
+.box .operation{
+	display: inline-block;
+  	
+}
+.answer{
+  background-color:#60BD59;
+  height:75px;
+  width:300px;
+ 
+  
+}
+
